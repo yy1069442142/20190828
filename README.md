@@ -1,2 +1,3 @@
 # 20190828
-study How to Create a Project
+learn How to create a simple Project
+develop is a branch
